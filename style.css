@@ -1,0 +1,41 @@
+body
+{
+	background-image: url(img/backgroundretro.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-position: fixed;
+}
+
+.body_paragraphe--fontstyle
+{
+	font-size: 1.4em;
+	font-family: Impact;
+	color: orange;
+	text-align: justify;
+	text-shadow: pink 2px 2px 20px;
+}
+
+.body_main-title{
+	text-shadow: white 2px 2px 20px;
+	font-family: trebuchet MS;
+	color: rgb(115, 204, 209);
+	text-align: center;
+}
+
+.button{
+	margin: 0px auto;
+	font-family: arial black;
+	font-size: x-large;
+	color: yellow;
+	text-shadow: pink 2px 2px 20px;
+	border: 3px black groove;
+	border-radius: 30px;
+	background: grey;
+	box-shadow: 2px 2px 20px white;
+	font-weight: bold;
+}
+
+.button-modification{
+	background: red;
+	box-shadow: none;
+}
